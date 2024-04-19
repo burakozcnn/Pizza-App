@@ -1,0 +1,35 @@
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\bin\Debug\net6.0-windows\Pizza Menü.exe
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\bin\Debug\net6.0-windows\Pizza Menü.deps.json
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\bin\Debug\net6.0-windows\Pizza Menü.runtimeconfig.json
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\bin\Debug\net6.0-windows\Pizza Menü.dll
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\bin\Debug\net6.0-windows\Pizza Menü.pdb
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza_Menü.Form1.resources
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.dll
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\refint\Pizza Menü.dll
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.pdb
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\ref\Pizza Menü.dll
+C:\Users\Administrator\Desktop\FormProjeler\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza_Menü.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\bin\Debug\net6.0-windows\Pizza Menü.exe
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\bin\Debug\net6.0-windows\Pizza Menü.deps.json
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\bin\Debug\net6.0-windows\Pizza Menü.runtimeconfig.json
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\bin\Debug\net6.0-windows\Pizza Menü.dll
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\bin\Debug\net6.0-windows\Pizza Menü.pdb
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza_Menü.Form1.resources
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza_Menü.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.dll
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\refint\Pizza Menü.dll
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.pdb
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\Pizza Menü.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Form Projesi İçin Gerekli\FormProjeler - Kopya\Pizza Menü\Pizza Menü\obj\Debug\net6.0-windows\ref\Pizza Menü.dll
